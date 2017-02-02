@@ -500,6 +500,10 @@ for details on generation and contribution._
 
 ## PHP
 
+| Name | repo | www | al | popularity | description |
+|------|------|-----|----|------------|-------------|
+|Wordpress|<a href="https://github.com/WordPress/WordPress" title="GitHub Repo">:octocat:</a>|<a href="https://wordpress.org" title="Website for WordPress">:globe_with_meridians:</a>|<a href="https://github.com/miziomon/awesome-wordpress" title="Awesome List for WordPress">:sunglasses:</a>| ★8,605 2017/01/27 <ins title="Last commit on 2017/01/27">ⓘ</ins>|WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.|
+
 <table>
   <thead>
     <tr>
